@@ -1,4 +1,5 @@
 import Head from "next/head";
+import SkillsPage from "../components/Skills/Skills";
 
 import sanityClient from "../helpers/sanityClient";
 
@@ -8,6 +9,8 @@ export default function Skills({ skills }) {
       <Head>
         <title>Hardik Sachan | Skills</title>
       </Head>
+
+      <SkillsPage infolist={skills} />
     </>
   );
 }
