@@ -24,6 +24,13 @@ const theme = createTheme({
         },
       },
     },
+    MuiCard: {
+      styleOverrides: {
+        root: {
+          backgroundColor: "#000000",
+        },
+      },
+    },
   },
 });
 
