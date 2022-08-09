@@ -14,7 +14,7 @@ const theme = createTheme({
     },
   },
   typography: {
-    fontFamily: `'Montserrat', sans-serif;`,
+    fontFamily: `'Roboto', sans-serif`,
   },
   components: {
     MuiAppBar: {
