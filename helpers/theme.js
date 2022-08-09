@@ -13,6 +13,9 @@ const theme = createTheme({
       contrastText: "#000",
     },
   },
+  typography: {
+    fontFamily: `'Montserrat', sans-serif;`,
+  },
   components: {
     MuiAppBar: {
       styleOverrides: {
