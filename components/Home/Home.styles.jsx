@@ -15,8 +15,7 @@ export const CsHeader = styled("div")`
   margin: 0 10px 50px 20px;
   color: ${({ theme }) => theme.palette.primary.contrastText};
 
-  & h1,
-  & h3 {
+  & h2 {
     font-weight: 400;
   }
 `;

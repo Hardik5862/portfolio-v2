@@ -10,7 +10,7 @@ const HomePage = () => {
         <h1>
           Hi, I&apos;m <CsName>Hardik Sachan</CsName>.
         </h1>
-        <h3>I&apos;m a Web developer.</h3>
+        <h2>I&apos;m a Web developer.</h2>
       </CsHeader>
       <div>
         <CsBtn
