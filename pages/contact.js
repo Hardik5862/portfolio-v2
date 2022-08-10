@@ -1,4 +1,5 @@
 import Head from "next/head";
+import ContactPage from "../components/Contact/Contact";
 
 export default function Contact() {
   return (
@@ -6,6 +7,8 @@ export default function Contact() {
       <Head>
         <title>Hardik Sachan | Contact</title>
       </Head>
+
+      <ContactPage />
     </>
   );
 }
