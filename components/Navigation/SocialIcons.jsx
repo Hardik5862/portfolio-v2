@@ -9,8 +9,7 @@ const SocialIcons = () => {
       <IconButton
         href="https://www.linkedin.com/in/hardik-sachan-b0ab7b1a2"
         target="_blank"
-        aria-label="LinkedIn account"
-        aria-controls="menu-appbar"
+        aria-label="LinkedIn"
         color="inherit"
       >
         <LinkedInIcon />
@@ -18,8 +17,7 @@ const SocialIcons = () => {
       <IconButton
         href="https://www.facebook.com/hardik.sachan.583/"
         target="_blank"
-        aria-label="facebook account"
-        aria-controls="menu-appbar"
+        aria-label="facebook"
         color="inherit"
       >
         <FacebookIcon />
@@ -27,8 +25,7 @@ const SocialIcons = () => {
       <IconButton
         href="https://www.instagram.com/hardik0casr/"
         target="_blank"
-        aria-label="Instagram account"
-        aria-controls="menu-appbar"
+        aria-label="Instagram"
         color="inherit"
       >
         <InstagramIcon />
