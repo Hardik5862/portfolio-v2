@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "postbuild": "next-sitemap",
     "start": "next start",
     "lint": "next lint"
   },
@@ -18,6 +19,7 @@
     "@sanity/client": "^3.3.3",
     "@sanity/image-url": "^1.0.1",
     "next": "12.2.4",
+    "next-sitemap": "^3.1.17",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   },
