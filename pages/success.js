@@ -3,7 +3,7 @@ import { useRouter } from "next/router";
 import { styled } from "@mui/material/styles";
 import Button from "@mui/material/Button";
 
-export default function About() {
+export default function Success() {
   const router = useRouter();
 
   return (
