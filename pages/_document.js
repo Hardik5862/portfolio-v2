@@ -12,11 +12,16 @@ export default class MyDocument extends Document {
         <Head>
           <meta name="theme-color" content={theme.palette.primary.main} />
           <link rel="shortcut icon" href="/favicon.ico" />
+          <link rel="icon" href="/favicon.ico" />
           <meta
             name="description"
             content="Portfolio website of hardik sachan"
           />
-          <link rel="icon" href="/favicon.ico" />
+          <meta
+            name="google-site-verification"
+            content="23OThHkDp2JSz-0B0Y1zvv2Yo4ABc80swTP62exB3AA"
+          />
+
           <meta name="emotion-insertion-point" content="" />
           {this.props.emotionStyleTags}
         </Head>
