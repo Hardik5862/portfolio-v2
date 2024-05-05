@@ -10,12 +10,12 @@ const HomePage = () => {
         <h1>
           Hi, I&apos;m <CsName>Hardik Sachan</CsName>.
         </h1>
-        <h2>I&apos;m a Web developer.</h2>
+        <h2>I&apos;m a Full Stack Web developer.</h2>
       </CsHeader>
       <div>
         <CsBtn
           variant="contained"
-          href="/resume/191230022_hardik_sachan.pdf"
+          href="https://raw.githubusercontent.com/Hardik5862/resume/main/hardiksachan.pdf"
           download
         >
           <GetAppIcon style={{ marginRight: "5px" }} />
